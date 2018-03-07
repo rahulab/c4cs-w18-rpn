@@ -13,6 +13,7 @@ operators = {
     '+': operator.add,
     '-': operator.sub,
     '*': operator.mul,
+    '^': operator.pow,
     '/': operator.truediv,
     '&': operator.and_,
     '|': operator.or_,
